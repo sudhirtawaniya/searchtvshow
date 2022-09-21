@@ -1,0 +1,21 @@
+
+.mdiv{
+ display: flex;
+ justify-content: space-evenly;
+ width: 100%;
+ 
+ 
+ flex-wrap: wrap;
+}
+.mdiv-2{
+    display: flex;
+ justify-content: center;
+ width: 100%;
+ 
+
+}
+.progress{
+    
+    justify-content: center;
+    display: none;
+}
